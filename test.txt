@@ -4,6 +4,7 @@ test3
 test4
 master commit	3
 branch1 test	3
-branch 02 changed commit 21
-branch 02 changed commit 22
+branch 02 changed commit 11
+branch 02 changed commit 12
+
 
