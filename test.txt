@@ -4,4 +4,5 @@ test3
 test4
 master commit	3
 branch1 test	3
-add brach commit
+add brach commit 1
+add brach commit 2
